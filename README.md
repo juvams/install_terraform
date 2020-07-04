@@ -1,2 +1,2 @@
 # install_terraform
-Instalação simplificada terraform
+Instalação simplificada de terraform
